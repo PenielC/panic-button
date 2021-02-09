@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aura.iml" filepath="$PROJECT_DIR$/.idea/modules/Aura.iml" group="Aura" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Aura/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1542322816/react-native-community_toolbar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/1542322816/react-native-community_toolbar-android.iml" group="Aura/react-native-community_toolbar-android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-308024947/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-308024947/react-native-gesture-handler.iml" group="Aura/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1991127151/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1991127151/react-native-reanimated.iml" group="Aura/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/944635470/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/944635470/react-native-screens.iml" group="Aura/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/610034025/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/610034025/react-native-vector-icons.iml" group="Aura/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>

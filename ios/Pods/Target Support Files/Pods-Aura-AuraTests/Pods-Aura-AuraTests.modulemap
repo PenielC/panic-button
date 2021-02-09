@@ -1,0 +1,6 @@
+module Pods_Aura_AuraTests {
+  umbrella header "Pods-Aura-AuraTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
